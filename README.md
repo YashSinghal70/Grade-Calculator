@@ -1,2 +1,2 @@
 # Grade-Calculator
-Grade Calculator suing HTML, CSS and JavaScript
+Grade Calculator using HTML, CSS and JavaScript
